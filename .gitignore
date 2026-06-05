@@ -1,0 +1,12 @@
+# Next.js
+.next/
+out/
+
+# dependencies
+node_modules/
+
+# macOS
+.DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
